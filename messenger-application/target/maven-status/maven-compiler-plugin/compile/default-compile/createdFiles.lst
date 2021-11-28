@@ -1,0 +1,9 @@
+org\stonlexx\messenger\app\util\MessageBuilder.class
+org\stonlexx\messenger\app\ServerConnector.class
+org\stonlexx\messenger\app\ServerConnector$ServerChannelHandler.class
+org\stonlexx\messenger\app\util\TimelineUtils$1.class
+org\stonlexx\messenger\app\util\ScenesUtils.class
+org\stonlexx\messenger\app\controller\AbstractPageController.class
+org\stonlexx\messenger\app\MessengerApp.class
+org\stonlexx\messenger\app\util\TimelineUtils.class
+org\stonlexx\messenger\app\util\AttachmentFactory.class

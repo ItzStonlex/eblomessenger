@@ -1,0 +1,4 @@
+org\stonlexx\messenger\base\scheduler\SchedulerManager.class
+org\stonlexx\messenger\base\MessengerConstants.class
+org\stonlexx\messenger\base\scheduler\CommonScheduler.class
+org\stonlexx\messenger\base\scheduler\SchedulerException.class
